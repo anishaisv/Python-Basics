@@ -1,0 +1,49 @@
+📦 Core Data Analysis Libraries
+Library	Use Case
+pandas	Data manipulation, cleaning, tabular data (like Excel/CSV/SQL)
+numpy	Fast numerical operations, array handling, linear algebra
+matplotlib	Basic plotting and charting (bar, line, scatter, etc.)
+seaborn	Statistical visualizations, heatmaps, distribution plots
+scipy	Scientific computing, optimization, integration, signal processing
+statsmodels	Advanced statistical tests and models (regression, ANOVA)
+plotly	Interactive and web-friendly graphs and dashboards
+bokeh	Interactive visualizations for large datasets
+ 
+🤖 Machine Learning & Feature Engineering
+Library	Use Case
+scikit-learn	Machine learning (classification, regression, clustering, pipelines)
+xgboost	Gradient boosting for structured/tabular data
+lightgbm	Fast gradient boosting (especially with large datasets)
+catboost	Categorical data boosting without preprocessing
+feature-engine	Feature transformation and selection pipelines
+ 
+🔍 Exploratory Data Analysis (EDA)
+Library	Use Case
+pandas-profiling	Automated EDA reports
+sweetviz	Beautiful, interactive EDA dashboards
+dtale	Browse, filter, and analyze pandas DataFrames like spreadsheets
+ 
+🧼 Data Cleaning & Formatting
+Library	Use Case
+pyjanitor	Cleaner syntax for data wrangling (e.g. .remove_columns())
+missingno	Visualizing missing data
+fuzzywuzzy	Fuzzy string matching for data cleaning
+ 
+📊 Time Series & Specialized Analysis
+Library	Use Case
+prophet	Time series forecasting (Facebook Prophet)
+tsfresh	Automated time series feature extraction
+pmdarima	Auto ARIMA modeling for time series
+geopandas	Geographic data analysis and mapping
+networkx	Graph and network analysis
+ 
+🛠️ Productivity & Utility
+Library	Use Case
+openpyxl	Excel file manipulation (.xlsx)
+sqlalchemy	Database access and SQL integration
+tqdm	Progress bars for loops and processes
+joblib	Easy parallel processing
+ 
+ 
+https://julius.ai/
+ 
